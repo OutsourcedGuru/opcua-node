@@ -1,0 +1,30 @@
+{
+  "name": "opcua-node",
+  "version": "1.0.1",
+  "description": "An OPC-UA node for serving up a 3D printer interface.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OutsourcedGuru/opcua-node.git"
+  },
+  "keywords": [
+    "opc-ua",
+    "3d-printer",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "OutsourcedGuru <support@outsourced.guru> (https://github.com/OutsourcedGuru)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OutsourcedGuru/opcua-node/issues"
+  },
+  "homepage": "https://github.com/OutsourcedGuru/opcua-node#readme",
+  "dependencies": {
+    "node-opcua": "^0.4.1",
+    "octo-client": "^1.1.1"
+  }
+}
