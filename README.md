@@ -13,12 +13,13 @@ mkdir ~/sites && cd ~/sites
 git clone https://github.com/OutsourcedGuru/opcua-node.git
 cd opcua-node
 npm install
+nano config.js # Edit the values here, especially the API key from OctoPrint
 npm start
 ```
 
 |Description|Version|Author|Last Update|
 |:---|:---|:---|:---|
-|opcua-node|v1.0.1|OutsourcedGuru|July 17, 2018|
+|opcua-node|v1.0.2|OutsourcedGuru|July 17, 2018|
 
 |Donate||Cryptocurrency|
 |:-----:|---|:--------:|
