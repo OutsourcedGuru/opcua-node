@@ -1,6 +1,6 @@
 {
   "name": "opcua-node",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An OPC-UA node for serving up a 3D printer interface.",
   "main": "index.js",
   "scripts": {

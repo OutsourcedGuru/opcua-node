@@ -6,6 +6,8 @@ An OPC-UA node for serving up a 3D printer interface.
 ## Overview
 This server creates an OPC-UA node, responds to queries and serves back information regarding a 3D printer which is fronted by OctoPrint.
 
+At the moment, this is just a proof-of-concept. I wouldn't consider it a complete project yet.
+
 ## Installation
 
 ```
@@ -19,7 +21,7 @@ npm start
 
 |Description|Version|Author|Last Update|
 |:---|:---|:---|:---|
-|opcua-node|v1.0.2|OutsourcedGuru|July 17, 2018|
+|opcua-node|v1.0.3|OutsourcedGuru|June 12, 2019|
 
 |Donate||Cryptocurrency|
 |:-----:|---|:--------:|
