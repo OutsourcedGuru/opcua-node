@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/OutsourcedGuru/opcua-node#readme",
   "dependencies": {
-    "node-opcua": "^0.4.1",
+    "node-opcua": "^2.74.0",
     "octo-client": "^1.1.1"
   }
 }
